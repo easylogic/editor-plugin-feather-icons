@@ -7,7 +7,6 @@
   "scripts": {
     "build": "webpack --mode production",
     "dev": "webpack serve --mode development --config ./webpack.dev.config.js --port 3034",
-    "prerelease": "npm run build",
     "release": "release-it *"
   },
   "repository": {
