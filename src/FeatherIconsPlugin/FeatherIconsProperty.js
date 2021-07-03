@@ -1,6 +1,6 @@
 
 
-import { BaseProperty, CLICK, DOMDIFF, LOAD, SUBSCRIBE } from '@easylogic/editor';
+import { BaseProperty, CLICK, DOMDIFF, Length, LOAD, SUBSCRIBE } from '@easylogic/editor';
 import feather from 'feather-icons';
 
 export default class FeatherIconsProperty extends BaseProperty {
