@@ -9,7 +9,7 @@ export default class FeatherIconsProperty extends BaseProperty {
     return 'feather-icons'
   }
 
-  async afterRender() {
+  afterRender() {
     this.show();
   }
 
